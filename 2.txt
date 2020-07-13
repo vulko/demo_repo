@@ -1,1 +1,1 @@
-emulate conflict
+conflict resolved!
